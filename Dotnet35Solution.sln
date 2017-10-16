@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpFeaturesConApp", "cSharpFeaturesConApp\cSharpFeaturesConApp.csproj", "{FE6740FB-C551-479D-9E9A-120D6E07B218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winCOnsoleApp", "winCOnsoleApp\winCOnsoleApp.csproj", "{D9B78603-C7AE-4ED7-92D1-E349DD22DCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQtoSqlConApp", "LinQtoSqlConApp\LinQtoSqlConApp.csproj", "{6AC8A989-E3E9-4A91-9110-67205B315AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQToSqlORConApp", "LinQToSqlORConApp\LinQToSqlORConApp.csproj", "{565D5DDA-DD40-451E-97D9-A5DED369315A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6740FB-C551-479D-9E9A-120D6E07B218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6740FB-C551-479D-9E9A-120D6E07B218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6740FB-C551-479D-9E9A-120D6E07B218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6740FB-C551-479D-9E9A-120D6E07B218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B78603-C7AE-4ED7-92D1-E349DD22DCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B78603-C7AE-4ED7-92D1-E349DD22DCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B78603-C7AE-4ED7-92D1-E349DD22DCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B78603-C7AE-4ED7-92D1-E349DD22DCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC8A989-E3E9-4A91-9110-67205B315AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC8A989-E3E9-4A91-9110-67205B315AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC8A989-E3E9-4A91-9110-67205B315AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC8A989-E3E9-4A91-9110-67205B315AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565D5DDA-DD40-451E-97D9-A5DED369315A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565D5DDA-DD40-451E-97D9-A5DED369315A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565D5DDA-DD40-451E-97D9-A5DED369315A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565D5DDA-DD40-451E-97D9-A5DED369315A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
